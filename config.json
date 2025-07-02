@@ -1,0 +1,6 @@
+
+{
+    "input_path": "C:\\py_pro\\PDF_Cut\\data\\DP100.pdf",
+    "max_pages_per_file": 400,
+    "output_path": "C:\\py_pro\\PDF_Cut\\data\\output"
+}
